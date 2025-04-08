@@ -6,8 +6,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## 👋 About Me
-
 Hi, I’m **Nirav Tukadiya** — an Android Architect with over 13 years of experience designing and scaling mobile apps that serve millions of users.
 
 Currently, I lead Android architecture at **Glance (InMobi Group)**, where I’ve built high-performance systems powering monetization and deep OEM integrations. From shipping lockscreen experiences to architecting mediation SDKs, I specialize in making mobile systems **fast, stable, and scalable** — all while keeping battery and memory usage in check.
