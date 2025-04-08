@@ -5,8 +5,6 @@ categories: [Android, Background Tasks]
 tags: [WorkManager, AlarmManager, Doze Mode, Battery]
 ---
 
-# How to Reliably Schedule Background Tasks in 2025 (Without Killing Battery)
-
 In 2025, scheduling background work on Android is not just a technical decision — it’s a strategic one. With Android 14 and 15 doubling down on power efficiency and privacy, developers need to rethink how tasks like syncing, uploading, or sending notifications are handled when the app isn’t active.
 
 This guide will walk you through the *modern background execution landscape*, help you choose the right APIs, and show you real-world code examples — all while keeping your app battery-friendly and system-compliant.
