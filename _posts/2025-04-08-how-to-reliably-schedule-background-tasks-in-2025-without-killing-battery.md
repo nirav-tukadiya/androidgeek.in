@@ -1,3 +1,9 @@
+---
+title: "How to Reliably Schedule Background Tasks in 2025 (Without Killing Battery)"
+date: 2025-04-08 10:00:00 +0530
+categories: [Android, Background Tasks]
+tags: [WorkManager, AlarmManager, Doze Mode, Battery]
+---
 
 # How to Reliably Schedule Background Tasks in 2025 (Without Killing Battery)
 
