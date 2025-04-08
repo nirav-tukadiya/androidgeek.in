@@ -13,7 +13,7 @@ body {
   background-color: #fdfdfd;
 }
 
-/* Hide author avatar in post footer */
-.post-tail-wrapper .author-avatar {
+/* Hide author avatar below blog posts */
+.post-tail-wrapper .author-profile .avatar-wrapper {
   display: none !important;
 }
