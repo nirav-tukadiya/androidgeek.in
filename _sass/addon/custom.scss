@@ -12,3 +12,8 @@ h1, h2, h3 {
 body {
   background-color: #fdfdfd;
 }
+
+/* Hide author avatar in post footer */
+.post-tail-wrapper .author-avatar {
+  display: none !important;
+}
