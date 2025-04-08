@@ -1,0 +1,12 @@
+{% assign author = site.data.authors[page.author] | default: site.data.authors.default %}
+
+<div class="post-tail-wrapper text-muted">
+  <div class="d-flex justify-content-between align-items-center">
+    <p class="mb-0">
+      {% if author.name %}
+        <strong>{{ author.name }}</strong>
+      {% endif %}
+      {{ author.bio }}
+    </p>
+  </div>
+</div>
